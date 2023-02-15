@@ -1,2 +1,3 @@
 # Machine-Learning
-I want to be a ML expert and I'm working hard for it
+Here you can find my progress in Machine Learning.
+
